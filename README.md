@@ -11,6 +11,9 @@ Material used per lamp:
 
 Added some animations and features like a way to reset the wifi connection without flashing a new program. Holding the top while connecting it to a socket will trigger a WiFi reset and a new configuration.
 
+After the message(color and mode) is sent, both lamps start to display a heartbeat animation for 15 minutes or until the receiver lamp sensor is activated.
+Stays on for 15 minutes, then turns off
+
 # Turning on, connecting to WiFi and Adafruit
 ![](https://github.com/fabiot16/IoT-Twin-Lamps/blob/main/gifs/on_connect.gif)
 
